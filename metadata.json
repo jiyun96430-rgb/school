@@ -1,0 +1,8 @@
+{
+  "name": "서울 고교 지도",
+  "description": "지도에서 찾고, 공시정보로 비교하는 서울 고등학교 안내",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
